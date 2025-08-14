@@ -68,11 +68,17 @@ body, html {
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+    display: flex;
+    flex-shrink: 1;
 }
 .hero p {
     font-size: 18px;
     color: #e5e7eb;
+    display: flex;
+    flex-shrink: 1;
 }
 .hero img {
     width: 40%;
+    display: flex;
+    flex-shrink: 1;
 }
