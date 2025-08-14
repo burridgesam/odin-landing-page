@@ -3,6 +3,7 @@
 }
 .header {
     justify-content: space-between;
+    color: #1f2937;
 }
 .header-logo {
     font-size: 24px;
