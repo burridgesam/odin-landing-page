@@ -3,14 +3,17 @@
 }
 body, html {
     margin: 0;
-    padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 .header {
     height: 48px;
     padding: 12px;
     display: flex;
     background-color: #1f2937;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
 }
 .header-logo {
