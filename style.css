@@ -8,15 +8,18 @@ body, html {
 .header {
     min-height: 48px;
     padding: 12px;
+    display: flex;
     background-color: #1f2937;
     justify-content: space-between;
 }
 .header-logo {
     font-size: 24px;
     font-weight: bold;
+    display: inline-flex;
     color: #f9faf8;
 }
 .header-link {
     font-size: 18px;
+    display: inline-flex;
     color: #e5e7eb;
 }
