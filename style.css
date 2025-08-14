@@ -1,6 +1,5 @@
 * {
     font-family: "Roboto", sans-serif;
-    max-width: 80%;
 }
 body, html {
     margin: 0;
@@ -9,6 +8,8 @@ body, html {
 .header {
     height: 48px;
     padding: 12px;
+    margin-left: 10%;
+    margin-right: 10%;
     display: flex;
     background-color: #1f2937;
     justify-content: flex-start;
