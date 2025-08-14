@@ -16,6 +16,7 @@ body, html {
     background-color: #1f2937;
 
     display: flex;
+    flex-direction: row;
     justify-content: flex-start;
     align-items: stretch;
     gap: 24px;
@@ -23,17 +24,17 @@ body, html {
 .header-logo {
     font-size: 24px;
     font-weight: bold;
-    display: inline-flex;
+    display: flex;
     color: #f9faf8;
     flex-grow: 0;
 }
 .header-spacer {
-    display: inline-flex;
+    display: flex;
     flex-grow: 1;
 }
 .header-link {
     font-size: 18px;
-    display: inline-flex;
+    display: flex;
     color: #e5e7eb;
     flex-grow: 0;
 }
