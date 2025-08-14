@@ -6,11 +6,12 @@ body, html {
     padding: 0;
 }
 .header {
-    min-height: 48px;
+    height: 48px;
     padding: 12px;
     display: flex;
     background-color: #1f2937;
     justify-content: space-between;
+    align-items: center;
 }
 .header-logo {
     font-size: 24px;
