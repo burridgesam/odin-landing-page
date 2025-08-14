@@ -18,9 +18,15 @@ body, html {
     font-weight: bold;
     display: inline-flex;
     color: #f9faf8;
+    flex-grow: 1;
+}
+.header-spacer {
+    display: inline-flex;
+    flex-grow: 3;
 }
 .header-link {
     font-size: 18px;
     display: inline-flex;
     color: #e5e7eb;
+    flex-grow: 1;
 }
