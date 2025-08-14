@@ -5,8 +5,8 @@ body, html {
     margin: 0;
     padding-top: 0;
     padding-bottom: 0;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 .header {
     height: 48px;
